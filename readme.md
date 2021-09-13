@@ -9,6 +9,7 @@ the house is step by step from lesson 16, but i have added some stuff like:
 - Bush's Texture
 - Added more bushes around the house
 
+Last of all i used Vercel for online preview [click here](https://haunted-house-seven.vercel.app/) to see it
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
