@@ -1,4 +1,13 @@
 # Three.js Journey
+## Haunted House
+This is my third Project based on 3js journey.
+I didn't make this house from scratch
+the house is step by step from lesson 16, but i have added some stuff like:
+- Grave's Texture
+- Window 
+- Window Texture
+- Bush's Texture
+- Added more bushes around the house
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
